@@ -92,4 +92,5 @@ This notebook consolidates key EDA skills including:
 ---
 
 ## ⚙️ Author
-Created by *[Your Name]* — as part of a learning project on data analysis and visualization.
+Created by *Abdul Ahad* — as part of a learning project on data analysis and visualization.
+
